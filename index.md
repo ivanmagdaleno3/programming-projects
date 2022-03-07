@@ -7,7 +7,7 @@
 ### SpaceGame
 OOp solution for a collision based graphics space shooter game.
 
-![SpaceGame]()
+![SpaceGame](https://github.com/ivanmagdaleno3/programming-projects/blob/gh-pages/imagestxd#:~:text=1-,contributor,-0%20lines%20(0)
 
 [source Code]()
 
